@@ -16,7 +16,7 @@ Pessoa que contribuiu para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/camila-benetasso/">
-        <img src="img/avatar1.jpeg" width="100px;" alt="Foto da Camila Benetasso no GitHub"/><br>
+        <img src="avatar1.jpeg" width="100px;" alt="Foto da Camila Benetasso no GitHub"/><br>
         <sub>
           <b>Camila Benetasso</b>
         </sub>
